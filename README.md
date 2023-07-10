@@ -1,4 +1,4 @@
-# A deep learning based multi-label contouring system for the prostate
+# Multi-label semantic segmentation of magnetic resonance images of the prostate gland
 
 ## Author: Mark Locherer
 
