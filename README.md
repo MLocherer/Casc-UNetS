@@ -8,6 +8,10 @@ Paper submitted
 
 If you find this work useful and use it for your own works please add a citation or remark to this source.
 
+### DOI
+
+<a href="https://zenodo.org/badge/latestdoi/478535106"><img src="https://zenodo.org/badge/478535106.svg" alt="DOI"></a>
+
 ### Directories and files
 
 subdirectory ```pymodules``` contains:
