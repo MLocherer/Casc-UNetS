@@ -2,7 +2,7 @@
 
 ## Author: Mark Locherer
 
-### April 2022
+### May 2024
 
 Paper submitted
 
@@ -10,7 +10,8 @@ If you find this work useful and use it for your own works please add a citation
 
 ### DOI
 
-<a href="https://zenodo.org/badge/latestdoi/478535106"><img src="https://zenodo.org/badge/478535106.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11108534.svg)](https://doi.org/10.5281/zenodo.11108534)
+
 
 ### Directories and files
 
