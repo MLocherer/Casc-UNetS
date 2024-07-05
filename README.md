@@ -36,7 +36,7 @@ The model was trained in 5cv fashion. Thus 5 models exist for each fold and one 
 
 #### model files
 
-```<stage#>_<dataset>_<histogram eq>_5cv_f<fold number>.pickle```, 
+```<stage#>_<dataset>_<histogram eq>_5cv_f<fold number>.pt```, 
 e.g.:
 1. unet1_combined_clahe_5cv_f0.pt
 2. unet1_combined_clahe_5cv_f1.pt
@@ -105,7 +105,7 @@ File ```source/pymodules/ds_ude_mitk_process.py``` contains:
 
 ### Dependencies
 
-The following packages must be installed:
+The following packages must be installed using python version 3.7:
 
 - conda install -c simpleitk simpleitk
 - optional (conda install -c conda-forge opencv) does not work with pytorch
