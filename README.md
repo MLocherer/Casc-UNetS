@@ -4,12 +4,9 @@
 
 ### Cite this work
 
-If you find this work useful and use it for your own project please cite the following work: [Multi‑label semantic segmentation of magnetic resonance images of the prostate gland](https://doi.org/10.1007/s44163-024-00162-z)
+If you find this work useful and use it for your own project please cite it as follows:
 
-### DOI for the source code
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11108534.svg)](https://doi.org/10.5281/zenodo.11108534)
-
+Locherer, M., Bonenberger, C., Ertel, W. et al. Multi-label semantic segmentation of magnetic resonance images of the prostate gland. Discov Artif Intell 4, 66 (2024). https://doi.org/10.1007/s44163-024-00162-z
 
 ### Directories and files
 
